@@ -12,3 +12,8 @@ I know basic HTML and CSS
 
 Completed details section.
 
+Programming platforms:
+codewars,codejam, codechef, topcoder
+
+programming basics: DS and algo
+
