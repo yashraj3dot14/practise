@@ -6,6 +6,9 @@ I am learning Git
 
 I know C#
 
+I am learning Web development
+
 I know basic HTML and CSS
 
 Completed details section.
+
