@@ -3,3 +3,5 @@ I am Python programmer
 
 I am beginner in Django.
 I am learning Git
+
+I know C#
