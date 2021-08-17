@@ -12,8 +12,14 @@ I know basic HTML and CSS
 
 Completed details section.
 
+Python is usefull in ML and AI
+JS is server side scripting Language.
+
 Programming platforms:
 codewars,codejam, codechef, topcoder
 
 programming basics: DS and algo
+
+
+
 
